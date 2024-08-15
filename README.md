@@ -12,7 +12,7 @@ Transformers
 Pandas
 Scikit-learn
 Getting Started
-Clone the repository: git clone https://github.com/yourusername/sentiment-analysis-bert.git
+Clone the repository
 Install the required packages: pip install -r requirements.txt
 Run the training script: python train.py
 Use the inference script to predict sentiments: python predict.py
